@@ -2,7 +2,7 @@
   "enable_development_mode": false,
   "company_name": "Stinson Orthodontics",
   "domain": "stinson.roostergrintemplates.com",
-  "email": "info@stinson.com",
+  "email": "info@roostergrin.com",
   "phone": {
     "number": "415-528-2520",
     "href": "tel:+14155282520",
@@ -44,7 +44,7 @@
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=575+Sutter+St.+Suite+503+San+Francisco+CA+94102",
+        "href": "https://www.google.com/maps/search/?api=1&query=575+Sutter+St.+Suite+503%2C+San+Francisco%2C+CA+94102",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -69,7 +69,7 @@
       {
         "icon": "tooth-two-v1",
         "text": "575 Sutter St. Suite 503, San Francisco, CA 94102",
-        "href": "https://www.google.com/maps/search/?api=1&query=575+Sutter+St.+Suite+503+San+Francisco+CA+94102",
+        "href": "https://www.google.com/maps/search/?api=1&query=575+Sutter+St.+Suite+503%2C+San+Francisco%2C+CA+94102",
         "label": "View 575 Sutter St. Suite 503, San Francisco, CA 94102 on google maps",
         "new_window": true
       },
